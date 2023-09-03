@@ -5,14 +5,14 @@ Desafio DIO:  API REST usando Java.
 
 ## Tecnologias Utilizadas
 
-- **Java 20**: Utilizaremos a versão LTS mais recente do Java para tirar vantagem das últimas inovações que essa linguagem robusta e amplamente utilizada oferece;
- - **Spring Boot 3**: Trabalharemos com a mais nova versão do Spring Boot, que maximiza a produtividade do desenvolvedor por meio de sua poderosa premissa de autoconfiguração;
- - **Spring Data JPA**: Exploraremos como essa ferramenta pode simplificar nossa camada de acesso aos dados, facilitando a integração com bancos de dados SQL;
- - **OpenAPI (Swagger)**: Vamos criar uma documentação de API eficaz e fácil de entender usando a OpenAPI (Swagger), perfeitamente alinhada com a alta produtividade que o Spring Boot oferece;
+- **Java 20**: Java 20 é a versão mais recente do Java, lançada em 21 de março de 2023, que inclui propostas de melhoria para o JDK;
+ - **Spring Boot 3**: Que auxilia na produtividade e fornece ferramentas de autoconfiguração;
+ - **Spring Data JPA**: Para simplificar o acesso ao banco de dados;
+ - **OpenAPI (Swagger)**: Fornece uma documentação para API;
 
 ## [Link do Figma](https://www.figma.com/file/0ZsjwjsYlYd3timxqMWlbj/SANTANDER---Projeto-Web%2FMobile?type=design&node-id=1421%3A432&mode=design&t=6dPQuerScEQH0zAn-1)
 
-O Figma disponibilizado pela DIO para a análise e o projeto da solução.
+O Figma disponibilizado pela DIO para a análise e projeto da solução.
 
 ## Diagrama de Classes
 
